@@ -1,3 +1,4 @@
+//Make Neccesary Imports
 import type { NextPage } from "next";
 import * as React from "react";
 import { QueryClient, QueryClientProvider, QueryCache } from "react-query";
